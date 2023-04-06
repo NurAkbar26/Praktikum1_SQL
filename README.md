@@ -16,7 +16,7 @@
 8. Tambahkan kolom email setelah kolom hp
 ![img.8](gambar/8.png)
 9. Hapus kolom keterangan dari tabel!
-![img.9](gambar/)
+![img.9](gambar/9.png)
 10. Ganti nama tabel menjadi data_mahasiswa!
 ![img.10](gambar/10.png)
 11. Ganti nama field id menjadi nim!
@@ -25,3 +25,8 @@
 ![img.12](gambar/12.png)
 13. Jadikan kolom email sebagai UNIQUE KEY
 ![img.13](gambar/13.png)
+
+- Apa maksud dari int (11)?
+adalah tipe data yang ukurannya tidak bisa lebih dari 11
+- Ketika kita melihat struktur tabel dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya ?
+yes tidak di isi tidak masalah jika no harus di isi jikat tidak di isi error 
