@@ -50,8 +50,7 @@
 13. Jadikan kolom email sebagai UNIQUE KEY
 
 ![img.13](gambar/13.png)
-
-- Apa maksud dari int (11)?
-adalah tipe data yang ukurannya tidak bisa lebih dari 11
-- Ketika kita melihat struktur tabel dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya ?
-yes tidak di isi tidak masalah jika no harus di isi jikat tidak di isi error 
+# Apa maksud dari int (11)?
+- int(11) adalah tipe data integer pada database yang memungkinkan kita untuk menyimpan bilangan bulat (integer) dalam kolom tertentu. Angka 11 dalam int(11) menunjukkan panjang maksimum angka yang dapat disimpan pada kolom integer tersebut
+# Ketika kita melihat struktur tabel dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya ?
+- NOT NULL dapat digunakan pada hampir semua tipe data, Fungsinya untuk memastikan bahwa nilai pada kolom tersebut tidak boleh kosong.Atribut NULL berkebalikan dengan NOT NULL, dimana jika sebuah kolom didefinisikan dengan NULL, maka kolom tersebut tidak harus berisi nilai.
